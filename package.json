@@ -1,0 +1,14 @@
+{
+  "name": "movingavg",
+  "version": "1.0.0",
+  "description": "Moving Averages Exercise",
+  "main": "movingAvg.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.4.0"
+  }
+}
